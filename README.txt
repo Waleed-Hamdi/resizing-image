@@ -25,5 +25,10 @@
 ## to run prettier  => npm run prettier
 
 
-## url  => http://localhost:8080/api/image/?name=2&hieght=300&width=500
+## url  => http://localhost:8080/api/image/?name=X&hieght=Y&width=Z
+   ### X is the name of the image and there is 5 images => (1 , 2 , 3 , 4 , 5 )
+   ### Y is your new height
+   ### Z is your new width
+
+# Example =>>  http://localhost:8080/api/image/?name=2&hieght=200&width=300
 
